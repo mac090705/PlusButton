@@ -13,3 +13,16 @@ Change the plus icon to tick or cross with animation when click the button
     app:endColor="#ffffff"
     app:mode="hook"/>
 ```
+```Java
+plusButton.setOnClickListener(new PlusButton.OnClickListener() {
+        @Override
+        public void onFirstClick() {
+
+        }
+
+        @Override
+        public void onConfirmClick() {
+
+        }
+    });
+```
