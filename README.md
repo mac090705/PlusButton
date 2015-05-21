@@ -1,7 +1,7 @@
 # PlusButton
 Change the plus icon to tick or cross with animation when click the button
 ##Preview
-![](https://github.com/mac090705/PlusButton/master/screenshots/plusbutton.jpg)
+![](https://github.com/mac090705/PlusButton/blob/master/screenshots/plusbutton.gif)
 ##Usage
 ```xml
 <com.leo.plusbutton.PlusButton
