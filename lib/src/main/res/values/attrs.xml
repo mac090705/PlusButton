@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="PlusButton">
+        <attr name="icon_size" format="dimension" />
+        <attr name="icon_color" format="color" />
+        <attr name="colorGradient" format="boolean"/>
+        <attr name="startColor" format="color"/>
+        <attr name="endColor" format="color"/>
+        <attr name="mode" format="enum">
+            <enum name="hook" value="0"/>
+            <enum name="cross" value="1"/>
+        </attr>
+    </declare-styleable>
+
+</resources>
